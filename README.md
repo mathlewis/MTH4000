@@ -1,3 +1,3 @@
 # MTH4000
 
-I done it
+Repository to test code related to the MTH4000 Programming in Python I module at Queen Mary University of London.
